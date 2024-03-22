@@ -1,0 +1,93 @@
+*{
+    font-family: "Montserrat", sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+header{
+margin: 44px 0 144px 76px;
+
+
+}
+
+.img-logo{
+    Width: 568px;
+    Height: 500px;
+    margin-left: 125px;
+    display: inline-block;
+
+}
+
+section{
+    display: inline-block;
+    margin-left: 86px;
+}
+
+.link-header{
+    font-weight: 600px;
+    font-size: 24px;
+    line-height: 29.26px;
+    color: #989D9C;
+    cursor: pointer;
+    margin-right: 23px;
+}
+
+.button-header{
+    background-color: #665AE1;
+    border-radius: 20.5px;
+    width: 130px;
+    height: 41px;
+    border: none;
+    font-size: 24px;
+    line-height: 29px;
+    color: white;
+    cursor: pointer;
+}
+h1{
+    font-weight: 900px;
+    font-size: 100px;
+    line-height: 121.9px;
+    color: #515151;
+    margin-left: 86px;
+}
+
+
+h2{
+    font-weight: 
+    500px;
+    font-size: 
+    58px;
+    line-height: 58px;
+    color: #515151;
+    margin-left: 86px;
+}
+
+
+p{
+font-weight: 400px;
+font-size: 24px;
+line-height: 29.26px;
+color: 29.26px;
+Width: 515px;
+margin-top: 32px;
+margin-bottom: 65px;
+margin-left: 86px;
+}
+
+.button-section{
+    border-radius: 20.5px;
+    background-color: #ADFF00;
+    Width: 239px;
+    Height: 64px;
+    border: none;
+    cursor: pointer;
+    filter: drop-shadow (X, 0, Y, 4) #00000040;
+    font-weight: 700px;
+    font-size: 28px;
+    line-height: 34.13px;
+   color: #000000; 
+   margin-left: 86px;
+
+}
